@@ -34,4 +34,4 @@ python translatevideo.py -r us-east-1 \
 ```
 
 
-There might be errors sometimes because the some features that are used here (in Moviepy) are experimental and have not been completely tested.
+There might be errors sometimes because the some features that are used here (in Moviepy) are experimental and have not been completely tested by Moviepy.
