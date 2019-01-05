@@ -10,7 +10,7 @@ Translate audio and video for better understanding and far accessibility of the 
 * FFmpeg
 * Amazon Polly
 * Amazon Transcribe
-* Amazon Cli
+* AWS Cli
 * Lambda
 * Amazon Translate
 * Moviepy
